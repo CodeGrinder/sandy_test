@@ -1,4 +1,4 @@
-ilters:
+filters:
   - filter_type: dynamic
     file_format: YML
     source_language: es-co
